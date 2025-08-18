@@ -41,12 +41,12 @@ My long-term goal is to grow into a **skilled software engineer** who not only w
   <a href="https://twitter.com/ashish_gola55"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://www.linkedin.com/in/ashish-gola-388833278/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://www.instagram.com/_illegal_coder/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+  <a href="https://www.geeksforgeeks.org/user/golaash1veq/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/></a>
+  <a href="https://www.codechef.com/users/sharp_field_12"><img src="https://img.icons8.com/ios-filled/50/codechef.png" height="40"/></a>
   <a href="https://medium.com/@golaashish036"><img src="https://skillicons.dev/icons?i=medium" height="40"/></a>
   <a href="https://www.youtube.com/@illegal_coder"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-  <a href="https://www.codechef.com/users/sharp_field_12"><img src="https://img.icons8.com/ios-filled/50/codechef.png" height="40"/></a>
   <a href="https://leetcode.com/u/_ashish_gola/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
   <a href="https://www.hackerrank.com/profile/ashishgola12jns1"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
-  <a href="https://www.geeksforgeeks.org/user/golaash1veq/"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" height="40"/></a>
 </p>
 
 ---
