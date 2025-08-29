@@ -6,7 +6,7 @@
 
 ---
 
-# 🧑‍💻 About Me  
+## 🧑‍💻 About Me  
 
 Hello! I’m **Ashish Gola**, a Computer Science Engineering student who is passionate about **Web Development, Artificial Intelligence, and Open Source**.  
 I enjoy solving problems, building innovative projects, and exploring technologies that make a real-world impact.  
