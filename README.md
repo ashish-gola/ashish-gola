@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Ashish+Gola;CSE+Student;Web+Dev+%7C+AI+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Hi+I'm+Ashish+Gola;CSE+Student;Web+Dev+%7C+AI+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">👨‍💻 CSE Student | Passionate about Technology </h3>
