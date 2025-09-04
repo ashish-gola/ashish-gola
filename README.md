@@ -79,6 +79,8 @@ My long-term goal is to grow into a **skilled software engineer** who not only w
 
 ---
 
+---
+
 ## 📈 Contribution Graph  
 
 <p align="center">
