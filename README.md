@@ -27,7 +27,7 @@ My long-term goal is to grow into a **skilled software engineer** who not only w
 - Improve problem-solving through LeetCode & CodeChef  
 - Share knowledge via blogs & tutorials  
 
-🚀 **Long-term:**  
+## 🚀 **Long-term:**  
 - Contribute to open-source projects  
 - Work on AI-driven applications  
 - Grow into a **Full-Stack + AI Developer**  
