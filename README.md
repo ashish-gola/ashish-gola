@@ -5,6 +5,7 @@
 <h3 align="center">👨‍💻 CSE Student | Passionate about Technology </h3>
 
 ---
+---
 
 ## 🧑‍💻 About Me  
 
