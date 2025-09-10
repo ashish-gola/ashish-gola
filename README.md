@@ -33,6 +33,7 @@ My long-term goal is to grow into a **skilled software engineer** who not only w
 - Grow into a **Full-Stack + AI Developer**  
 
 ---
+---
 
 ## 🌐 Connect with Me  
 
