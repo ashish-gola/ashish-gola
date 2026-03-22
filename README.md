@@ -19,6 +19,7 @@ Currently, I’m:
 My long-term goal is to grow into a **skilled software engineer** who not only writes clean code but also contributes to impactful open-source communities.  
 
 ---
+---
 
 ## 🎯 Goals & Interests  
 
