@@ -49,7 +49,7 @@ My long-term goal is to grow into a **skilled software engineer** who not only w
   <a href="https://leetcode.com/u/_ashish_gola/"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
   <a href="https://www.hackerrank.com/profile/ashishgola12jns1"><img src="https://skillicons.dev/icons?i=hackerrank" height="40"/></a>
 </p>
-
+---
 ---
 
 ## 🛠️ Languages & Tools  
